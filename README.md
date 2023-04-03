@@ -15,6 +15,7 @@ We will be looking at the phase two clinical trial data of 350 patients for a ne
 Phase two trials are intended to:
 
 -Test the efficacy and the dose response of a drug
+
 -Identify adverse reactions
 
 In this trial, half of the patients are being treated with Auralin, and the other 175 being treated with a popular injectable insulin called Novodra. By comparing key metrics between these two drugs, we can determine if Auralin is effective.
